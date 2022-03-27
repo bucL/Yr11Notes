@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "dd63d8fdb31d96e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "43c121a331fe2cc8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "History/Fragility  of the Tsar's position.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "709887933f60b52e",
+    "type": "split",
+    "children": [
+      {
+        "id": "86b39478710fc8ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "565a9d5ea30ef4aa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9fc3ca1546af049e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fa65490e4cf78262",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 216
+  },
+  "right": {
+    "id": "6874321ae025a733",
+    "type": "split",
+    "children": [
+      {
+        "id": "96a7a88d318b550f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f4cf961815901a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "History/Fragility  of the Tsar's position.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "897a7a0b442bbbcf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b5157a94ed1798c6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b3a5f384c6d78dd2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "History/Fragility  of the Tsar's position.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "43c121a331fe2cc8",
+  "lastOpenFiles": [
+    "History/Fragility  of the Tsar's position.md",
+    "History/Practice Introduction.md",
+    "History/Essay Writing Tips.md",
+    "History/The Provisional Government.md",
+    "History/Problem of Reform.md",
+    "History/Impact of  WW1.md",
+    "History/Why Choose History.md",
+    "History/Romanov Dynasty.md",
+    "Homework.md",
+    "English/More’s Utopia.md"
+  ]
+}

@@ -1,0 +1,2 @@
+- [ ] Finish off learning kits 1.2 pages: 13 and 17
+- [ ] Art Body Paragraph Manet Due Wednesday

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "43c121a331fe2cc8",
+        "id": "69a58dbd22c77d67",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "History/Fragility  of the Tsar's position.md",
+            "file": "Homework.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,8 +41,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "tag:#theory",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -73,23 +73,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9f4cf961815901a3",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "History/Fragility  of the Tsar's position.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "897a7a0b442bbbcf",
             "type": "leaf",
             "state": {
@@ -101,42 +84,58 @@
             }
           },
           {
-            "id": "b5157a94ed1798c6",
+            "id": "5ee706da9fdb0a22",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "calendar",
               "state": {}
             }
           },
           {
-            "id": "b3a5f384c6d78dd2",
+            "id": "b62ef85898e386d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Homework.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6a05eabb9e07fe46",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Fragility  of the Tsar's position.md"
+                "file": "Homework.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "43c121a331fe2cc8",
+  "active": "69a58dbd22c77d67",
   "lastOpenFiles": [
-    "History/Fragility  of the Tsar's position.md",
-    "History/Practice Introduction.md",
-    "History/Essay Writing Tips.md",
-    "History/The Provisional Government.md",
-    "History/Problem of Reform.md",
-    "History/Impact of  WW1.md",
-    "History/Why Choose History.md",
-    "History/Romanov Dynasty.md",
     "Homework.md",
-    "English/More’s Utopia.md"
+    "Journal/2022-03-29.md",
+    "Art/Body Paragraph 2.md",
+    "Art/Body Paragraph 3.md",
+    "Art/Draft Essay.md",
+    "Art/Conclusion.md",
+    "Art/Body Paragraph 1.md",
+    "Art/Introduction.md",
+    "Art/The Body in Art.md",
+    "History/Nicholas II as an Autocrat.md"
   ]
 }

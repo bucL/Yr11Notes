@@ -1,4 +1,6 @@
 {
   "minimal-style@@title-alignment": "title-align-left",
-  "minimal-advanced@@cursor": "crosshair"
+  "minimal-advanced@@cursor": "default",
+  "minimal-style@@h1": "1.5em",
+  "minimal-style@@h2": "1.125em"
 }

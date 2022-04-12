@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Homework.md",
+            "file": "BibEthics/Defining Ethics.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homework.md",
+                "file": "BibEthics/Defining Ethics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,28 +114,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homework.md"
+                "file": "BibEthics/Defining Ethics.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "69a58dbd22c77d67",
   "lastOpenFiles": [
-    "Homework.md",
-    "Journal/2022-03-29.md",
-    "Art/Body Paragraph 2.md",
+    "BibEthics/Defining Ethics.md",
+    "BibEthics/Ethics.md",
+    "BibEthics/Natural Law Theory.md",
     "Art/Body Paragraph 3.md",
-    "Art/Draft Essay.md",
-    "Art/Conclusion.md",
-    "Art/Body Paragraph 1.md",
-    "Art/Introduction.md",
+    "Journal/2022-04-08.md",
+    "Journal/2022-03-29.md",
+    "Journal/Daily Journal.md",
+    "History/Growth of  Opposition.md",
     "Art/The Body in Art.md",
-    "History/Nicholas II as an Autocrat.md"
+    "History/Homework — WW1.md"
   ]
 }

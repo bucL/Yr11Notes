@@ -18,7 +18,7 @@
 - Rasputin had a firm grip over the Tsar family.
 - Rasputin’s influence
 - Died from Yusupov
-- His legacy was to make the Tsardom seem corrupt in the eyes of the people.
+- His legacy = made Tsardom seem **corrupt** in the eyes of the people.
 
 ## **Impact of Rasputin**
 

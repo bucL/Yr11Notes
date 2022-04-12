@@ -29,30 +29,30 @@
       }
     },
     {
-      "query": "path:Art",
-      "color": {
-        "a": 1,
-        "rgb": 15493850
-      }
-    },
-    {
       "query": "path:Journal",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:Art",
+      "color": {
+        "a": 1,
+        "rgb": 16736754
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "nodeSizeMultiplier": 0.9125,
+  "lineSizeMultiplier": 1.7251953125,
+  "collapse-forces": true,
   "centerStrength": 0.518713248970312,
-  "repelStrength": 12.476881377551,
-  "linkStrength": 0.748325892857143,
+  "repelStrength": 10,
+  "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.4628518865055351,
+  "scale": 0.4787582929149497,
   "close": true
 }

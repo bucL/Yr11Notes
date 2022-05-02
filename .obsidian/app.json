@@ -16,5 +16,6 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "autoPairBrackets": false
+  "autoPairBrackets": false,
+  "communityThemeSortOrder": "release"
 }

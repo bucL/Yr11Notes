@@ -1,3 +1,19 @@
-- [ ] Strategic Importance of Cuba 60-70% Done Friday
-- [ ] Body 3 and Intro to Art Essay.    Saturday 
+### URGENT
+---
+- [ ] Watch Othello/Read Othello -- Sunday 
+- [ ] ART DUE 
 
+
+#### Important
+---
+
+- [ ] Activity 3 Source Questions. 
+- [ ] Context Diagram 
+
+
+
+##### Not Important now but will be 
+---
+- [ ] Finish Learning Kits. -- Not Important as of now but eventually. 
+- [ ] Prep for Depth Study 
+- [ ] Start looking at university applications. 

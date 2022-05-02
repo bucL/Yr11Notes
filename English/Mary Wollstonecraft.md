@@ -14,7 +14,7 @@ After considering the historic page, and viewing the living world with anxious s
 
 ---
 
-### **Techniques:**
+### Techniques:
 
 Emotive Language: “melancholy, sorrowful, depressed, neglected, misery, deplore, weak, wretched, sacrificed, disregarded, barren, false, hobbled and specious”
 

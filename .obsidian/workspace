@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "69a58dbd22c77d67",
+        "id": "8d390ee8d5d8dafa",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Art/Body Paragraph 3.md",
+            "file": "English/Race In Othello.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#theory",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216
+    "width": 216,
+    "collapsed": true
   },
   "right": {
     "id": "6874321ae025a733",
@@ -79,7 +80,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -97,13 +98,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Art/Body Paragraph 3.md",
+                "file": "English/Race In Othello.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -114,28 +115,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Art/Body Paragraph 3.md"
+                "file": "English/Race In Othello.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 318.5
   },
-  "active": "69a58dbd22c77d67",
+  "active": "8d390ee8d5d8dafa",
   "lastOpenFiles": [
-    "Art/Body Paragraph 3.md",
-    "History/The Monroe Doctrine.md",
-    "Homework.md",
+    "English/Race In Othello.md",
     "History/Cuba Term 2.md",
-    "Journal/Journal.md",
-    "History/Course Outcomes Modern.md",
-    "History/Essay Writing Tips.md",
-    "History/Nature of the Tsar's Rule.md",
-    "History/Practice Introduction.md",
+    "Homework.md",
+    "History/Activity 3 Source Questions.md",
+    "Journal/2022-04-29.md",
+    "History/Cuba Under Batista.md",
+    "History/Platt Amendment.md",
+    "Untitled.md",
+    "History/The Monroe Doctrine.md",
     "History/Preliminary Quiz.md"
   ]
 }

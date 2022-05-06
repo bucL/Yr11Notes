@@ -5,11 +5,11 @@
   "spellcheck": true,
   "newFileLocation": "current",
   "alwaysUpdateLinks": true,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "showFrontmatter": false,
   "rightToLeft": false,
   "fileSortOrder": "alphabetical",
-  "communityPluginSortOrder": "release",
+  "communityPluginSortOrder": "download",
   "pdfExportSettings": {
     "pageSize": "A4",
     "landscape": false,

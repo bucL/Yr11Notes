@@ -1,0 +1,3 @@
+- "False Gaze"  -> Leading one astray to achieve their own objectice
+- "Ay, to me" -> Dead to brabantio because she married a black person. -> disowns her. 
+- "Abused", "stol'n", "corrupted"

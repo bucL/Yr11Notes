@@ -1,4 +1,5 @@
 [[Preliminary Quiz]]
 [[The Monroe Doctrine]]
 [[Cuba Under Batista]]
-
+[[Conditions for Revolution]]
+[[Account for the perspective -- Question]]

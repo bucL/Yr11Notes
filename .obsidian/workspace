@@ -4,12 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "8d390ee8d5d8dafa",
+        "id": "3d7da52fcbd7d789",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English/Race In Othello.md",
+            "file": "English/Act I Scene ii Plot Analysis.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "9320e316405cff40",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "English/Act I Scene ii.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Race In Othello.md",
+                "file": "English/Act I Scene ii Plot Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Race In Othello.md"
+                "file": "English/Act I Scene ii Plot Analysis.md"
               }
             }
           }
@@ -124,19 +137,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 325.5,
+    "collapsed": true
   },
-  "active": "8d390ee8d5d8dafa",
+  "active": "3d7da52fcbd7d789",
   "lastOpenFiles": [
-    "English/Race In Othello.md",
-    "History/Cuba Term 2.md",
+    "English/Act I Scene ii Plot Analysis.md",
+    "English/Act I Scene ii.md",
     "Homework.md",
-    "History/Activity 3 Source Questions.md",
-    "Journal/2022-04-29.md",
-    "History/Cuba Under Batista.md",
-    "History/Platt Amendment.md",
-    "Untitled.md",
-    "History/The Monroe Doctrine.md",
-    "History/Preliminary Quiz.md"
+    "English/Othello.md",
+    "History/Continuing American Influence.md",
+    "History/Conditions for Revolution.md",
+    "History/Cuba Term 2.md",
+    "History/Account for the perspective -- Question.md",
+    "English/Texts.md",
+    "English/Brabantio's Speech.md"
   ]
 }

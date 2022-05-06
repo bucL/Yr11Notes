@@ -24,11 +24,11 @@ Much of the USA's prosperity and Economic growth relied upon the geography of th
 
 # The Strategic Importance of Cuba
 ---
-	- Cuba is located 144km from US Coastline (Florida)
+	- Cuba is located **144km** from US Coastline (Florida)
 	- It is of strategic importance as it:
-	- is the gateway to the Gulf of Mexico and Caribbean
-	- The bulk of US farming exports are shipped through the Mississippi delta
-	- Has the potential to expose souther US defences to a strong navy. 
+		- is the gateway to the Gulf of Mexico and Caribbean
+		- The bulk of US farming exports are shipped through the Mississippi delta
+		- Has the potential to expose souther US defences to a strong navy. 
 
 # The Monroe Doctrine
 ---

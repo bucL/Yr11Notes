@@ -1,20 +1,18 @@
 ## URGENT
 ---
-- [ ] ART DUE NEXT -- WEDNESDAY
+- [ ] FINISH ART ESSAY -- MONDAY
 - [ ] REVISE SOFTWARE THEORY -- MONDAY
 
 
 ### Important
 ---
-- [ ] Ex 3.4, EX 3.5 EXT1 -- SATURDAY
-- [ ] Do PRAC DKT -- FRIDAY
-- [ ] Practice Graphing -- SATURDAY. 
-- [ ] Ex 2.11 12,16,18,21,24,25,29. -- SUNDAY.
-- [ ] Chapter 5. ALL -- SUNDAY
+- [ ] 12.2 Summary Finish Up -- MONDAY
+- [ ] Work through trig booklet -- MONDAY
 - [ ] Prep for Depth Study NEXT THURSDAY
-- [ ] 200 word plot analysis of Act I Scene ii with quotes -- FRIDAY
-- [ ] Complete All dropbox stuff for history and reading on announcement continued influence of America. 
-- [ ] 12.2 Summary + Key Questions. 12.3 Summary + Key Questions. 
+- [ ] Finish "No" sketch -- TUESDAY
+- [ ] Go through physics dot points. https://educationstandards.nsw.edu.au/wps/portal/nesa/11-12/stage-6-learning-areas/stage-6-science/physics-2017/content/2174 -- WEDNESDAY
+- [ ] English 500 word mini essay race and gender. -- TUESDAY
+- [ ] Prep for Essay Style Question, WRIGHT READING IS THE BEST -- MONDAY
 
 #### Kinda Important
 ---
@@ -24,24 +22,3 @@
 ##### Not Important now but will be 
 ---
 - [ ] Finish Learning Kits. -- Not Important as of now but eventually. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-###### When Finished 
----
-- [ ] Play F1

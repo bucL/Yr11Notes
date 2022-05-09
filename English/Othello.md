@@ -5,5 +5,4 @@
 [[Act I Scene ii Plot Analysis]]
 [[Brabantio's Speech]]
 [[Act I Scene iii]]
-
-
+[[Othello As an Outsider]]

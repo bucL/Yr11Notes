@@ -5,7 +5,7 @@
   "spellcheck": true,
   "newFileLocation": "current",
   "alwaysUpdateLinks": true,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "showFrontmatter": false,
   "rightToLeft": false,
   "fileSortOrder": "alphabetical",

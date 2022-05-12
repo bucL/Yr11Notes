@@ -1,11 +1,12 @@
 ## Act I Scene i
 ---
-- I know my price, I am worth no worse a place. -- Iago
+- "I know my price, I am worth no worse a place." -- Iago
 	- Iago is jealous of Cassio and now hates Othello for not promoting him. 
-- That never set a squadron in the field. -- Iago
-- very now an old black ram- Is tupping your white ewe -- Iago
-- you'll have your daughter covered with a Barbary horse -- Iago
-- your daughter and the moor are now making the beast with two backs -- Iago
+- "That never set a squadron in the field." -- Iago
+- "very now an old black ram- Is tupping your white ewe" -- Iago
+	- Animalistic and derogatory language used against Othello by Iago 
+- "you'll have your daughter covered with a Barbary horse" -- Iago
+- "your daughter and the moor are now making the beast with two backs" -- Iago
 
 ```
 Derogatory Comments about the Union of Othello + Desdemona. -› Incense Brabantio -› Wants to Provoke Brabantio's wrath and anger
@@ -26,3 +27,8 @@ Derogatory Comments about the Union of Othello + Desdemona. -› Incense Brabant
 - By Janus, I think no. -- Iago
 	- 2 faced Roman God mythological allusion, machiavellian nature
 
+## Act II 
+---
+- "fair warrior" -- Othello
+	- Acceptance of women as his equal. 
+- "Saints in your injuries, devils being offended,"

@@ -4,3 +4,5 @@
 [[Conditions for Revolution]]
 [[Account for the perspective -- Question]]
 [[Essay Style Question Prep]]
+[[Continuing American Influence]]
+[[The Cuban Revolution]]

@@ -1,4 +1,4 @@
-# Outline the conditions which led to the Revolution in Cuba.
+	# Outline the conditions which led to the Revolution in Cuba.
 ---
 
 

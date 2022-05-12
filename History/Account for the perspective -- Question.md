@@ -1,5 +1,6 @@
 Use **Wright** reading and your own knowledge to account for the perspective in the source below. 
 
+
 > [!INFO] > The corruption of the Government, the brutality of the police, the regime’s indifference to the needs of the people for education, medical care, housing, for social justice and economic justice… is an open invitation to revoltion. 
 > -- Arthur Schlesinger
 

@@ -6,3 +6,5 @@
 [[Brabantio's Speech]]
 [[Act I Scene iii]]
 [[Othello As an Outsider]]
+[[Race and Gender Mini Essay]]
+[[Act II]]

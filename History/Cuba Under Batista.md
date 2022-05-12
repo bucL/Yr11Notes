@@ -1,4 +1,4 @@
-## Economic, Social and Political Conditions Under Batista
+ ## Economic, Social and Political Conditions Under Batista
 ---
 - Under Batista Large Scale Gambling flourished, Havana became known as '*Latin Las Vegas*' 
 - Cuba became profitable for American business as well as the centre of organised crime. 

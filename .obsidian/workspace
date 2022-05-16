@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "919147a961286e59",
+        "id": "e7fa3aa797a2413a",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -104,7 +104,7 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -124,20 +124,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5,
-    "collapsed": true
+    "width": 325.5
   },
-  "active": "919147a961286e59",
+  "active": "e7fa3aa797a2413a",
   "lastOpenFiles": [
     "Homework.md",
-    "English/Act II.md",
-    "English/Act I Scene ii.md",
+    "Journal/2022-05-16.md",
+    "BibEthics/Questions to Ask Assignment.md",
+    "Journal/2022-04-29.md",
+    "History/Wright Reading.md",
+    "History/Cuba Term 2.md",
     "English/Key Quotes.md",
-    "English/Othello.md",
-    "English/English.md",
-    "History/Account for the perspective -- Question.md",
-    "History/Romanov Dynasty.md",
-    "History/Modern History.md",
-    "History/Screen Shot 2022-05-06 at 9.29.47 am.png"
+    "English/Act II.md",
+    "English/Mini Essay Cultural Narratives.md",
+    "Journal/2022-05-14.md"
   ]
 }

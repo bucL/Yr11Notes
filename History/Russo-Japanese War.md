@@ -1,4 +1,4 @@
-[[Romanov Dynasty]]
+#history [[Romanov Dynasty]]
 # Russo-Japanese War — Causes, Impact & Consequences
 ---
 

@@ -1,4 +1,4 @@
-[[Romanov Dynasty]]
+#history [[Romanov Dynasty]]
 # Course Outline Terms 1-3
 
 1. The Decline and Fall of the Romanov Dynasty (8 Weeks)

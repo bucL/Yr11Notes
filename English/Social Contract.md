@@ -1,13 +1,7 @@
+#english 
 # Rousseau — The Social Contract
-
-# The Social Contract
-
 ---
-
-<aside>
-🗣 **“Man is born free and everywhere he is in chains”**
-
-</aside>
+> [!INFO] **“Man is born free and everywhere he is in chains”**
 
 - Rousseau seen as the father of Romanticism.
 - Natural state of man is corrupted by society.

@@ -1,4 +1,4 @@
-[[Course Outcomes Modern]]
+#history [[Course Outcomes Modern]]
 # Why Choose History — Discussion
 
 ## Why have you chosen this subject?

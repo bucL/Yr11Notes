@@ -1,3 +1,4 @@
+#Ethics 
 # Ethics
 ---
 Can be defined as ;

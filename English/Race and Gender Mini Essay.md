@@ -1,3 +1,4 @@
+#english 
 Race and Gender are two key ideas that are constructed within Act 1 of Othello through the characterisation of and treatment of characters within the play. 
 
 Patriarchal ways of thinking dominated society during Shakespeare's time constructed the views of Gender we see within the play. Brabantio's tone and choice of words during his speech against Othello. His tone makes him sound patriarchal and misogynistic. Shakespeare objectifies women through "foul thief", implying the culture of the time and that women were treated as objects that could be stolen from each other. Furthermore, he then uses contrast when Brabantio says "tender, fair and happy." The tri-colon emphasises the evaluation of women during the time and their association with physical beauty with complete disregard of their other capabilities. Thus, patriarchal ways of thinking about gender are constructed through they way Desdemona is addressed in Act 1. 

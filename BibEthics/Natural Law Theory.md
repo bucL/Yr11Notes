@@ -1,7 +1,4 @@
-[[Ethics]]
-
-
-#theory 
+#Ethics 
 # Natural Law Theory 
 --- 
 Natural law is an *objectivist* theory most commonly associated with St Thomas Aquinas (1224 - 1274). It relies on Aquinas; basic understanding that humans innately try to do good and to avoid evil in order to find fulfilment and happiness in life -- by achieving their divine purpose. 

@@ -1,4 +1,4 @@
-[[The 1905 Revolution]]
+#history [[The 1905 Revolution]]
 # Source Analysis Questions
 ---
 

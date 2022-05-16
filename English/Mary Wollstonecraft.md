@@ -1,3 +1,4 @@
+#english 
 # Mary Wollstonecraft — A Vindication of the Rights of Women
 
 - Like Rousseau she is concerned with social injustice but specifically in relation to women. Written in reaction to the repressive patriarchal ideologies of her time that denied women the same rights as men

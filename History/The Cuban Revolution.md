@@ -1,3 +1,4 @@
+#history 
 # The Cuban Revolution
 ----
 ## US - Cuban Relations
@@ -46,3 +47,33 @@ He was familiar with the works of Karl Marx and Vladimir Lenin - However did not
 Lenin's ideas inspired his plans for revolution and confirmed his belief that Cuba was hopelessly corrupt and unable to be changed through reform. The only path was revolution. 
 
 Lenin advocated for violent, armed struggle to bring about revolution. His Bolshevik revolution in 1917 inspired many 20th Century revolutions. 
+
+
+### Attack on Moncada Barracks
+A failed attack in July 1953
+
+Moncada is in Santiago -- 850kms from the Capital
+
+Some of Castro's men were killed and 125 were captured 
+- Half of them were executed
+- The remaining half were sent to prison on the Isle of Pines
+
+A new movement was born out of the attack -- July 26 movement or M-26-7
+
+The 'History will absolve me' speech took place in 1953 -- it lasted 4-5 hours and became the movement's manifesto
+
+Fidel and Raul Castro were released by Batista in 1955. 
+
+
+### Key Points of Castro's Opposition
+> [!Quote] The combatants of Moncada did not achieve their military objectives, but they did achieve their revolutionary objectives.  -- *Faustino Perez, Moncada rebel*
+
+- While they were fleeing from the soldiers Fidel was prioritised by deputy force commander Abél Santamaria who said "Fidel... is the one who must not die". 
+- Although only 3 rebels died 80 were captured and most of them were tortured for information and subsequently executed. 
+- Batista was determined to set an example for future would be revolutionaries and in the aftermath thousands of people were ruthlessly detained and questioned. Anyone wounded even from an innocent accident was in danger of interrogation and torture. 
+- Castro was captured on 1st of August 1953 By a patrol under command of Lieutenant Pedro Sarria. While originally ordered to kill Sarria took compassion on Castro and directed him to a civil prison first before being handed to the authorities. by then it was too late for execution and the public outrage at the government ensured that Castro would be subjected to humane treatment. 
+
+> [!Quote] As for me, I know that imprisonment will be ... filled with threats, ruin and cowardly deeds of rage, but I do not fear it, as I do not fear the fury of the wretched tyrant who snuffed out the lives of 70 brothers of mine. Condemn me. It does not matter. History will absolve me. 
+> -- Castro's famous speech in his own defence during his secret trial on 16 October 1953. 
+
+

@@ -1,3 +1,4 @@
+#history 
  # *Introduction and Strategic importance of Cuba*
 ---
 Pro slavery lawmakers want to buy Cuba from Spain and enslave its people anti slavery political movements defend Cuba. Debate in America as America considers whether it should become a European style imperial power or a more conservative country that respects it as a fellow Sovereign. America Establishes a Quasi Independence over Cuba in 1898 America still has some control over Cuba but otherwise generally lets it remain free and continue its interests Communists win in 1959 and Castro takes control. 

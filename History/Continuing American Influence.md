@@ -1,3 +1,4 @@
+#history 
 ## Chapter 17 
 ---
 - At the time of its implementation the Plat Amendment could be considered as being a welcome guarantee of protection for Cubans.

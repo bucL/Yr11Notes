@@ -1,3 +1,4 @@
+#english 
 ## Act I Scene i
 ---
 - "I know my price, I am worth no worse a place." -- Iago
@@ -30,5 +31,38 @@ Derogatory Comments about the Union of Othello + Desdemona. -› Incense Brabant
 ## Act II 
 ---
 - "fair warrior" -- Othello
-	- Acceptance of women as his equal. 
-- "Saints in your injuries, devils being offended,"
+	- Acceptance of women as his equal going against the ways of thinking at the time. 
+- "Saints in your injuries, devils being offended," -- Iago
+	- Provocative comments, represents his perception of women and the kind's of cultural narratives women must contend with. 
+- "...the net, that will enmesh them all." -- Iago
+	- Iago does into a soliloquy referring his evil capabilities. 
+- "O my souls joy" -- Othello
+	- Overjoyed to see Desdemona 
+- "When the blood is made dull with the act of sport, there should be, again to inflame it and to give satiety a fresh appetite, loveliness in favour, sympathy in years, manners and beauties; all which the Moor is defective in" -- Iago
+	- Othello here is once again marginalised, racial narratives. 
+- "Till I am even'd with him, wife for wife," -- Iago
+	- Iago believes has had an affair with Iago's wife Emilia. Amorous relations and he sees the opportunity to use Desdemona to exact his revenge. 
+- "Or failing so, yet that I put the Moor At least into a jealousy so strong" -- Iago
+	- Put Othello into such a state of jealously that he loses his calm nature. 
+- "For I fear Cassio with my night-cap too" -- Iago
+	- Iago believes that Cassio has also had amorous relations with his wife. 
+- "Good Michael, look you to the guard to-night" -- Othello
+	- Cassio is in charge of the guard tonight which is Ironic as he is the one who will get drunk and lose reason. 
+- "Honest Iago" -- Othello
+	- Epithet and Dramatic Irony as Iago is everything but honest.
+- I had rather have this tongue cut from my mouth Than it should do offence to Michael Cassio -- Iago
+	- Equivocation used to imply something. Essentially admitted that Cassio has done the wrong thing. Telling truth but in an ambiguous manner
+- "Thy honesty and love doth mince this matter" -- Othello
+	- Epithet and Dramatic Irony as Iago is everything but honest.
+- "And passion, having my best judgment collied," -- Othello
+	- First indication that Othello is losing control over his behaviour and his actions. First step towards animalistic behaviour. 
+- "Reputation, reputation, reputation! O, I have lost my reputation!" -- Cassio
+	- Bemoaning the loss of his reputation as he has just been demoted. 
+- "Confess yourself freely to her; importune her help to put you in your place again" -- Iago
+	- Iago advises Cassio to appeal to Desdemona using the same language he uses to characterise her that he does to show Othello at the beginning of the play. 
+- "So will I turn her virtue into pitch, And out of her own goodness make the net That shall enmesh them all." -- Iago
+	- Manipulating Desdemona to everyone around her, suggesting that Desdemona is the opposite of virtuous. 
+
+## Act III 
+---
+- Promises Cassio that he will take Othello out of the way for a while and gets Emilia to talk to Cassio. 

@@ -1,9 +1,9 @@
-[[Romanov Dynasty]]
+#history [[Romanov Dynasty]]
 
 # Essay Writing — What Makes A Successful Essay?
 
-## Structure
 
+## Structure
 ---
 
 1. Answer the question
@@ -23,7 +23,6 @@
     4. Link — either back to the question and or to the next paragraph. 
 
 ## Assessment Preparation
-
 ---
 
 Prepare by constructing own interpretation of the fall of the Romanovs. 
@@ -35,7 +34,6 @@ A generic question to help you create your own interpretation is: **Evaluate the
 Practice developing questions in accordance to the notification. 
 
 ## Criteria
-
 ---
 
 Address the question asked, making a clear judgement based on a sophisticated and sustained argument, which demonstrates a comprehensive understanding of the the issue(s) raised in the question. 
@@ -45,7 +43,6 @@ Presents a logical, cohesive and well-structured response drawing on a clear ide
 Supports interpretation with detailed, relevant and accurate historical information and makes use of appropriate terms and concepts. 
 
 ## Sustaining Argument
-
 ---
 
 Argument must be immersed throughout the work. 

@@ -1,4 +1,4 @@
-[[Impact of  WW1]]
+#history [[Impact of  WW1]]
 # Homework — Tasks
 ---
 

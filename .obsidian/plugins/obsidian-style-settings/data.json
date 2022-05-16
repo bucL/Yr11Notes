@@ -5,5 +5,20 @@
   "minimal-style@@h2": "1.125em",
   "grubbed@@show-sidebar-tabs": false,
   "grubbed@@show-titlebar": true,
-  "grubbed@@show-scrollbar": false
+  "grubbed@@show-scrollbar": false,
+  "primary-ceciliamay@@vault-title__titlebar": true,
+  "primary-ceciliamay@@vault-title__file-explorer": true,
+  "primary-ceciliamay@@no-md-activeline": true,
+  "primary-ceciliamay@@gray-md-formatting": false,
+  "primary-ceciliamay@@center-embeds": true,
+  "primary-ceciliamay@@note-embeds__style": "note-embeds__style-minimal",
+  "primary-ceciliamay@@scrollbar-style": "scrollbar__hidden",
+  "primary-ceciliamay@@hide__note-header": false,
+  "primary-ceciliamay@@hide__metadata-box": true,
+  "primary-ceciliamay@@hide__sidedockribbon": "show__sidedockribbon",
+  "primary-ceciliamay@@statusbar": "show__status-bar",
+  "primary-ceciliamay@@header-color__preset": "header-color__normal",
+  "primary-ceciliamay@@header-size__preset": "header-size__medium",
+  "primary-ceciliamay@@inter-alt": false,
+  "primary-ceciliamay@@tabular-nums": false
 }

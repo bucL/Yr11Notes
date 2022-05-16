@@ -1,3 +1,4 @@
+#english 
 - "False Gaze"  -> Leading one astray to achieve their own objectice
 - "Ay, to me" -> Dead to brabantio because she married a black person. -> disowns her. 
 - "Abused", "stol'n", "corrupted"
@@ -10,3 +11,5 @@ Othello's acceptance only comes when he demonstrates some sort of white attribut
 
 I have't. It is engender'd. Hell and night  
 Must bring this monstrous birth to the world's light.
+
+[[Race and Gender Mini Essay]]

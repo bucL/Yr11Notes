@@ -1,3 +1,4 @@
+#history 
  ## Economic, Social and Political Conditions Under Batista
 ---
 - Under Batista Large Scale Gambling flourished, Havana became known as '*Latin Las Vegas*' 

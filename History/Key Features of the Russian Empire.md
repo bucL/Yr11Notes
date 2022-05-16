@@ -1,9 +1,8 @@
+#history 
 # Key Features of the Russian Empire.
-
 ---
 
 ## Politically Backwards
-
 ---
 
 By the beginning of the 20th Century all major Western European countries had some form of democratic government. Extremism was encouraged through the denial of free speech. It remained outside the mainstream of European political thought with the Tsar's word remained final on all legal and governmental matters. There was no space for political debate and oppurtunities for political reform. Assassinations were common and 6 out the last 12 Romanov Autocrats were assassinated. The Russian Orthodox Church was split from other branches of Christianity in the 15th Century and was completely independant of outside influence. It was deeply conservative and opposed to political change. This resulted in many underground societies being formed as a result of the restriction of free speech. 

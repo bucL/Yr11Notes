@@ -1,4 +1,4 @@
-[[Revolution -- War]]
+#history [[Revolution -- War]]
 # The Abdication of the Tsar
 ---
 1. Who -> 

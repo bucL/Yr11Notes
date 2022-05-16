@@ -1,3 +1,4 @@
+#english 
 ### Key Parts of Module A:
 ---
 - Knowing the ideas morals and values that are explored within texts. 

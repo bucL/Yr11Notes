@@ -1,4 +1,4 @@
-[[Key Features of the Russian Empire]]
+#history [[Key Features of the Russian Empire]]
 
 # Problem of Reform in Russia
 ---

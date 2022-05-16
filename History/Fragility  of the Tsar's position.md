@@ -1,6 +1,5 @@
-# Fragility of the Tsar’s Position in 1914
---- 
-[[Essay Writing Tips]]
+#history [[Essay Writing Tips]]
+
 # Outline the fragility of the Tsar’s position in 1914.
 ---
 

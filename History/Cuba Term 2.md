@@ -1,3 +1,4 @@
+#history 
 [[Preliminary Quiz]]
 [[The Monroe Doctrine]]
 [[Cuba Under Batista]]
@@ -6,3 +7,4 @@
 [[Essay Style Question Prep]]
 [[Continuing American Influence]]
 [[The Cuban Revolution]]
+[[Wright Reading]]

@@ -1,4 +1,4 @@
-[[Romanov Dynasty]]
+#history [[Romanov Dynasty]]
 
 # The 1905 Revolution
 ---

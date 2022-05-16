@@ -1,4 +1,4 @@
-[[Revolution -- War]]
+#history [[Revolution -- War]]
 
 # Revolution 1917 Question Why?
 

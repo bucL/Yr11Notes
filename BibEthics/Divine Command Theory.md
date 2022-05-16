@@ -1,5 +1,4 @@
-[[Ethics]]
-#theory 
+#Ethics
 # Divine Command Theory 
 --- 
 This theory articulates the belief that God determines what is right and wrong and doing what he 'wills' or commands will always result in doing right!

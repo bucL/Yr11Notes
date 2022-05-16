@@ -1,4 +1,4 @@
-[[Nicholas II as an Autocrat]]
+#history [[Nicholas II as an Autocrat]]
 
 # Research Exercise 
 ---

@@ -1,4 +1,4 @@
-#history 
+#history #essay 
 # Growing Discontent — Response
 ---
 

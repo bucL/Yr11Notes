@@ -8,3 +8,4 @@
 [[Continuing American Influence]]
 [[The Cuban Revolution]]
 [[Wright Reading]]
+[[Consolidation of Power]]

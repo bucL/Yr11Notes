@@ -75,7 +75,7 @@
 
 ---
 
-**A *historian’s view:***
+***A historian’s view:***
 
 *“Historians sometimes contrast the February Revolution’s ‘spontaneity’ – the idea that it arose from popular protests without direct political leadership – to the ‘conspiratorial’ October Revolution, which is often described as a coup d’etat. The idea that the February Revolution occurred spontaneously also contrasts sharply with the ‘party line’ in histories published in the Soviet Union, which held that the Bolshevik Party led the masses in the February Revolution. But neither the socialist parties in the new Petrograd Soviet, nor the liberals in the Duma’s provisional committee anticipated that the February 23rd strike would snowball into revolution.”*
 

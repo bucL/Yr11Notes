@@ -1,4 +1,4 @@
-#history [[Romanov Dynasty]]
+#history #essay [[Romanov Dynasty]]
 
 # Essay Writing — What Makes A Successful Essay?
 

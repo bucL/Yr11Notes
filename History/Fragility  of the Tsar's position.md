@@ -1,4 +1,4 @@
-#history [[Essay Writing Tips]]
+#history #essay  [[Essay Writing Tips]]
 
 # Outline the fragility of the Tsar’s position in 1914.
 ---

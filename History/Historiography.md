@@ -1,4 +1,4 @@
-#history 
+#history #essay 
 [[Essay Writing Tips]]
 [[Fragility  of the Tsar's position]]
 

@@ -19,7 +19,7 @@
 - Launching from Mexico in a storm Fidel arrived two days late. 
 	- His 82 men landed in the wrong spot.
 		- Fifteen survived and regrouped to flee into the Sierra Maestra. Rest were killed, captured or dispersed. 
-		- Rural Guerrilla warfare was born out of desperation rather than choice. 
+		- Rural Guerrilla warfare was born "out of desperation rather than choice."
 - In 1957 and 1958 cities were still the main theatre of war between Batista and the opposition. 
 	- Castro was virtually neglected.
 	- Batista initially claimed Castro was killed. 
@@ -39,3 +39,6 @@
 	- Resulted in 2 week long strike supported by all anti-Batista groups and populace by large. 
 - The failure of the other revolutionary groups smoothed Castro's  path to power. 
 	- Batista increased the repression on urban underground and purged the military. 
+
+[[Fidel's Tactics]]
+[[Armed Struggle]]

@@ -43,6 +43,7 @@
 
 ##### Social inequities:
 - Policies implemented by the government generally favoured the rich over the poor and there wasn't anything directly being done to help those in need. 
+- General State of decay amongst the population
 
 
 ### Assess the conditions which led to revolution in Cuba.

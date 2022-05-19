@@ -8,28 +8,28 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "tag:#history",
-      "color": {
-        "a": 1,
-        "rgb": 14048348
-      }
-    },
-    {
-      "query": "tag:#english",
+      "query": "path:English",
       "color": {
         "a": 1,
         "rgb": 14069084
       }
     },
     {
-      "query": "tag:#journal",
+      "query": "path:History",
+      "color": {
+        "a": 1,
+        "rgb": 4485819
+      }
+    },
+    {
+      "query": "path:BibEthics",
       "color": {
         "a": 1,
         "rgb": 11392604
       }
     },
     {
-      "query": "tag:#Ethics",
+      "query": "path:Journal",
       "color": {
         "a": 1,
         "rgb": 6084188
@@ -46,6 +46,6 @@
   "repelStrength": 11.1651785714286,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.48276369932221663,
+  "scale": 3.1609998790109546,
   "close": true
 }

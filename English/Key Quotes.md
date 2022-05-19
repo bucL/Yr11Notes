@@ -66,3 +66,27 @@ Derogatory Comments about the Union of Othello + Desdemona. -› Incense Brabant
 ## Act III 
 ---
 - Promises Cassio that he will take Othello out of the way for a while and gets Emilia to talk to Cassio. 
+- "Ha! I like not that" -- Iago
+	- Sows seeds of doubt into Othello's mind. 
+- "That he would steal away so guilty-like" -- Iago
+	- By inference he is putting thoughts of doubt in Othello's mind. 
+- "The sooner, sweet, for you." -- Othello
+	- Implying that Cassio is having an affair with Desdemona. 
+- "Excellent wretch! Perdition catch my soul, But I do love thee!And when I love thee not Chaos is come again." -- Othello
+	- Foreshadowing of the chaos that follows his loss of his faith in Desdemona. 
+	- Paradox "excellent wretch" "but I do love thee", seeing Othello split between two moods. 
+- "Think, my lord?" -- Iago
+	- Repeating Othello's words back at him causing Othello doubt.
+- "Alas, thou echost me, As if there were some monster in thy thought" -- Othello
+	- Othello believes that Iago is holding something back about Cassio and his relations with his wife. Iago's deceptive hints are working upon Othello. 
+	- Othello's sees Iago's physical and mental deception when Cassio interacts with his wife. 
+- "My lord, you know I love you" -- Iago
+	- Dramatic Irony
+- "Utter my thoughts? Why, say they are vile and false," -- Iago
+	- Implying there is something going on between Desdemona and Cassio
+- "Oh, beware, my lord, of jealousy! It is the green-eyed monster which doth mock" -- Iago
+	- Essentially saying that if Othello is not angry/jealous with Desdemona he will live his life with his wife sleeping with other men. 
+- "Haply, for I am black And have not those soft parts of conversation That chamberers have," -- Othello
+	- narratives of race coming into doubt for Othello, 
+	- he has internalised these thoughts and he thinks he's less than what he truly is, he is starting to believe the narrative thrown at him by all those around him.
+	- 

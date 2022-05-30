@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "126d44b643b94ab4",
+        "id": "daf6464c1a34e5e5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "History/Consolidation of Power.md",
+            "file": "Homework.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Consolidation of Power.md",
+                "file": "Homework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,29 +115,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Consolidation of Power.md"
+                "file": "Homework.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 325.5,
-    "collapsed": true
+    "width": 325.5
   },
-  "active": "126d44b643b94ab4",
+  "active": "daf6464c1a34e5e5",
   "lastOpenFiles": [
-    "History/Consolidation of Power.md",
-    "History/Fidelistas come to power Q's.md",
     "Homework.md",
-    "History/Cuba Term 2.md",
-    "English/Act III.md",
-    "English/Race and Gender Converge to Create Chaos.md",
-    "English/Othello.md",
-    "English/References to Gender and Race.md",
-    "English/Key Quotes.md",
-    "English/Mini Essay Cultural Narratives.md"
+    "BibEthics/Questions to Ask Assignment.md",
+    "Journal/2022-05-27.md",
+    "Journal/2022-03-29.md",
+    "Journal/2022-05-24.md",
+    "History/Screen Shot 2022-05-26 at 9.51.36 pm.png",
+    "History/Screen Shot 2022-05-26 at 10.09.18 pm.png",
+    "History/Bay of pigs Sources.md",
+    "History/Platt Amendment.md",
+    "History/The Bay Of Pigs.md"
   ]
 }

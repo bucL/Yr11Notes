@@ -27,6 +27,7 @@ Derogatory Comments about the Union of Othello + Desdemona. -› Incense Brabant
 	- Objectification of women, patriarchal ways of thinking. -› Women are property. 
 - By Janus, I think no. -- Iago
 	- 2 faced Roman God mythological allusion, machiavellian nature
+- Act 1 Scene 3 -> Rumours Abroad quote -- Iago
 
 ## Act II 
 ---
@@ -89,4 +90,38 @@ Derogatory Comments about the Union of Othello + Desdemona. -› Incense Brabant
 - "Haply, for I am black And have not those soft parts of conversation That chamberers have," -- Othello
 	- narratives of race coming into doubt for Othello, 
 	- he has internalised these thoughts and he thinks he's less than what he truly is, he is starting to believe the narrative thrown at him by all those around him.
+- Act 3 Scene 3 Line 203 -> in Venice quote
+
+## Act IV 
+---
+- "An unauthorized kiss." -- Othello
 	- 
+- "Lie... With her, on her; what you will." -- Iago
+	- Implies that Cassio has slept with Desdemona and boasted about it. 
+- "Lie with her! lie on her! We say lie on her, when  they belie her." -- Othello
+	- Othello's breakdown and his loss of control in his language. 
+	- He has psychologically and physically lost control, through the repetition of the language. 
+- "That nightly lie in those unproper beds" -- Iago
+- "To lip a wanton in a secure couch, And to suppose her chaste!" -- Iago
+	- Unfaithfulness of Women 
+- "How shall I murder him, Iago?" -- Othello
+	- Othello decides to murder Cassio for his interactions with his wife. 
+- "Ay, let her rot and perish, and be damned tonight... O, the world hath not a sweeter creature" -- Othello
+	- Othello is conflicted about killing Desdemona
+- "I will chop her into messes" -- Othello
+	- His determination to kill Desdemona. 
+- "Strangle her in bed" -- Iago
+	- Iago further implements the idea that the marriage bed is going to become a setting of terror and violence. 
+- "And for Cassio, let me be his undertaker" -- Iago
+	- Iago is going to kill Cassio that night
+- "Truly, an obedient lady" -- Lodovico
+	- Obedient, Dutiful, Submissive, ideal Venetian Woman -> Objectification. 
+- "Is this the noble Moor whom our full senate Call all in all sufficient?" -- Lodovico
+	- He notices that Othello's passion has taken over his reason. 
+- "I durst, my lord, to wager she is honest, Lay down my soul at stake" -- Emilia
+	- Emilia confirms that Desdemona is not unfaithful and tells him to remove all thoughts of those who say otherwise. 
+- "Impudent strumpet!" -- Othello
+	- Calls Desdemona a whore, disrespect
+- "The Moor's abused by some most villianous knave," -- Emilia
+	- Emilia knows that Othello has been abused. 
+- "why, who would not make her husband a cuckold to make him a  monarch"

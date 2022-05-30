@@ -1,4 +1,3 @@
-#history 
 # Key Features 
 ---
 - Placed in the new cuban constitution drawn up in 1902

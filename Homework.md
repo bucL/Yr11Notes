@@ -1,14 +1,12 @@
 # URGENT
 ---
-- [ ] Physics Proposal -- THURSDAY
+- [x] Software Work Update Scrum Taskboard.
 
 ## Important
 ---
-- [ ] 6.2 Q7-21 -- THURSDAY
-- [ ] Split Essay Plan Pre-Existing issues into economic and political -- THURSDAY
-- [ ] Race and gender converge to create chaos mini essay -- THURSDAY
-- [ ] Key Vocab Task Canvas. -- THURSDAY
-- [ ] Finish up learning kits. -- FRIDAY
+- [ ] Maths Ex 6.5 16-24  -- SATURDAY
+- [ ] Maths Ex 6.6 12-18 -- SATURDAY
+
 
 ### Kinda Important
 ---

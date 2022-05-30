@@ -9,3 +9,4 @@
 [[The Cuban Revolution]]
 [[Wright Reading]]
 [[Consolidation of Power]]
+[[The Bay Of Pigs]]

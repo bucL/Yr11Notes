@@ -1,4 +1,8 @@
-[[Race and Gender Mini Essay]] [[Race In Othello]] #english 
+[[Race and Gender Mini Essay]]
+[[Race In Othello]] 
+#english 
+[[Key Quotes]]
+
 "I nothing but to please his fantasy." -- Emilia
 - Purpose is nothing but to please her husband, 
 "This was her first remembrance from the Moor." -- Emilia

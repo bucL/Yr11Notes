@@ -13,3 +13,18 @@ Rules to Answer SDD Questions:
 -   You are a developer
 -   Technicality is King
 -   Not an english subject
+
+
+## Evidence for Essay
+---
+Act 4 scene 3 Emilia's language and sentiments are not of their time and represents a feminist view. 
+
+
+> [!info] ### Good triumph's over evil in the play. In the film evil triumphs over good. 
+
+Sax's ending is a condemnation of our society, there are no if's or buts, there is no happy ending it is condemnatory.
+
+
+<center style= font-size: 40>DO THE PLANNING FIRST</center>
+
+

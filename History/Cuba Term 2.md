@@ -10,3 +10,5 @@
 [[Wright Reading]]
 [[Consolidation of Power]]
 [[The Bay Of Pigs]]
+[[The Cuban Missile Crisis]]
+[[Castro's Cuba]]

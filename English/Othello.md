@@ -7,3 +7,6 @@
 [[Act I Scene iii]]
 [[Act II]]
 [[Act III]]
+[[Act IV]]
+[[Act V]]
+[[Essay Structure]]

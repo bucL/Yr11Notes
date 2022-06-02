@@ -4,12 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "daf6464c1a34e5e5",
+        "id": "77b34749eea58857",
+        "type": "split",
+        "children": [
+          {
+            "id": "daf6464c1a34e5e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Essay Structure.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ba678e8bd1a6fa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Act I Scene ii.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "0a63986bfd21ee5f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Homework.md",
+            "file": "English/Draft Para 1.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -98,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homework.md",
+                "file": "English/Draft Para 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homework.md"
+                "file": "English/Draft Para 1.md"
               }
             }
           }
@@ -124,19 +157,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 325.5,
+    "collapsed": true
   },
-  "active": "daf6464c1a34e5e5",
+  "active": "0a63986bfd21ee5f",
   "lastOpenFiles": [
-    "Homework.md",
-    "BibEthics/Questions to Ask Assignment.md",
-    "Journal/2022-05-27.md",
-    "Journal/2022-03-29.md",
-    "Journal/2022-05-24.md",
-    "History/Screen Shot 2022-05-26 at 9.51.36 pm.png",
-    "History/Screen Shot 2022-05-26 at 10.09.18 pm.png",
-    "History/Bay of pigs Sources.md",
-    "History/Platt Amendment.md",
-    "History/The Bay Of Pigs.md"
+    "English/Draft Para 1.md",
+    "English/Act I Scene ii.md",
+    "English/Essay Structure.md",
+    "English/Key Quotes.md",
+    "English/Act I Scene iii.md",
+    "English/act .md",
+    "English/Act I Scene i.md",
+    "English/Othello As an Outsider.md",
+    "Reminders.md",
+    "English/Othello.md"
   ]
 }

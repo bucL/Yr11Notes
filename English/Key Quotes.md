@@ -34,7 +34,7 @@ Derogatory Comments about the Union of Othello + Desdemona. -› Incense Brabant
 - "fair warrior" -- Othello
 	- Acceptance of women as his equal going against the ways of thinking at the time. 
 - "Saints in your injuries, devils being offended," -- Iago
-	- Provocative comments, represents his perception of women and the kind's of cultural narratives women must contend with. 
+	- Provocative comments, represents his perception of women and the kind's of cultural narratives women must contend with. **
 - "...the net, that will enmesh them all." -- Iago
 	- Iago does into a soliloquy referring his evil capabilities. 
 - "O my souls joy" -- Othello
@@ -95,7 +95,6 @@ Derogatory Comments about the Union of Othello + Desdemona. -› Incense Brabant
 ## Act IV 
 ---
 - "An unauthorized kiss." -- Othello
-	- 
 - "Lie... With her, on her; what you will." -- Iago
 	- Implies that Cassio has slept with Desdemona and boasted about it. 
 - "Lie with her! lie on her! We say lie on her, when  they belie her." -- Othello
@@ -122,6 +121,20 @@ Derogatory Comments about the Union of Othello + Desdemona. -› Incense Brabant
 	- Emilia confirms that Desdemona is not unfaithful and tells him to remove all thoughts of those who say otherwise. 
 - "Impudent strumpet!" -- Othello
 	- Calls Desdemona a whore, disrespect
-- "The Moor's abused by some most villianous knave," -- Emilia
+- "The Moor's abused by some most villainous knave," -- Emilia
 	- Emilia knows that Othello has been abused. 
-- "why, who would not make her husband a cuckold to make him a  monarch"
+- "why, who would not make her husband a cuckold to make him a monarch" -- Emilia
+- "But I do think it is their husbands' faults" -- Emilia
+	- Her thoughts and her morals are ahead of her time. 
+## Act V
+---
+- "If you bethink yourself of any crime Unreconciled as yet to heaven and grace, Solicit for it straight." -- Othello
+	- Reflects christian societal values of the times.  
+- "Alas! he is betray'd and I undone." -- Desdemona. 
+- "Nobody; I myself. Farewell Commend me to my kind lord: O, farewell!" -- Desdemona
+	- She is faithful to a fault and protects him even in death. 
+- "O, the more angel she, And you the blacker devil!" -- Emilia
+	- Othello has become what the narrative of race says. 
+
+
+

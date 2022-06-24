@@ -1,0 +1,3 @@
+
+#history 
+The source suggests that while the intentions behind the multiple attempts to improve the Cuban economy and increase the productivity of the land. These attempts failed due to the lack of experience and the lack of support provided to Cuba by the US. They suggest that while Castro's attempts to improve society were in good faith they ultimately failed to due to a lack of experience and support given from surrounding nations namely the US. 

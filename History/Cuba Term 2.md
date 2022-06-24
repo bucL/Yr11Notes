@@ -12,3 +12,5 @@
 [[The Bay Of Pigs]]
 [[The Cuban Missile Crisis]]
 [[Castro's Cuba]]
+[[Revolution Benefited Cuba Essay Plan]]
+[[Changes Castro Initiated]]

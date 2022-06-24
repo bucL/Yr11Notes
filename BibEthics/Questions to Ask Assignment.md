@@ -22,7 +22,7 @@
 - describe
 - Evaluate -> Why? -> Ask questions
 - Investigate - dig in
-- 
+
 
 
 

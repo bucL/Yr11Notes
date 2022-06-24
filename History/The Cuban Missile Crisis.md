@@ -1,3 +1,5 @@
+#history 
+
 ## Cause
 ---
 - Hostility between Cuba and the US led to increased political and economic relations with the Soviet Union which further provided them with aid in the forms of economic boosts and military supplies. 
